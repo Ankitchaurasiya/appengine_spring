@@ -76,7 +76,7 @@ public class MavenWrapperDownloader {
                         mavenWrapperPropertyFileInputStream.close();
                     }
                 } catch (IOException e) {
-                    // Ignore ...
+                    // Ignore..
                 }
             }
         }
